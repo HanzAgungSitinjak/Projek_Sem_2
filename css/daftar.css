@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.content{
+    background-color: white;
+    width: 65%;
+    padding: 10px;
+    margin: auto;
+}
